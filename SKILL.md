@@ -4,7 +4,8 @@ description: 'Map depressive thinking patterns across Aaron Beck''s cognitive tr
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.1
+  version: 1.0.3620
+repository: https://github.com/sethmblack/paks-skills
 keywords:
 - cognitive-triad-assessment
 - writing
